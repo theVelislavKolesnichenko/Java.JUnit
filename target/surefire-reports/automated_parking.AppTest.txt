@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: automated_parking.AppTest
+-------------------------------------------------------------------------------
+Tests run: 76, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.453 s <<< FAILURE! - in automated_parking.AppTest
+testExistingMethodInClassTest{String, String, String, String, String, String[]}[14]  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodException: automated_parking.Place.getVhicle()
+	at automated_parking.AppTest.testExistingMethodInClassTest(AppTest.java:63)
+
