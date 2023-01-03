@@ -1,0 +1,16 @@
+Packages, Class, field, type, modificator
+homework.homework_10.bg.tu_varna.sit.task1, Item, itemType, homework.homework_10.bg.tu_varna.sit.task1.ItemType, private
+homework.homework_10.bg.tu_varna.sit.task1, Item, itemPrice, double, private
+homework.homework_10.bg.tu_varna.sit.task1, Item, availableQuantity, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Biscuits, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task1, Bread, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task1, Butter, packing, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Butter, butterContent, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Chocolate, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task1, Chocolate, cocoaContent, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Eggs, numberInPack, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Milk, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task1, Milk, daysToExpire, int, private
+homework.homework_10.bg.tu_varna.sit.task1, Water, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task1, Water, type, homework.homework_10.bg.tu_varna.sit.task1.WaterType, private
+homework.homework_10.bg.tu_varna.sit.task1, Shop, items, java.util.Set, private

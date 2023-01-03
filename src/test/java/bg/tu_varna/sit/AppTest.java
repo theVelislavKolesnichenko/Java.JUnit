@@ -19,8 +19,10 @@ import org.junit.jupiter.params.provider.CsvSource;
  */
 public class AppTest 
 {
+    private String dirName = "homework_1";
+
     @ParameterizedTest
-    @CsvFileSource(files = "src/test/resources/test-interface.csv", numLinesToSkip = 1)
+    @CsvFileSource(files = "src/test/resources/homework/homework_10/test-interface.csv", numLinesToSkip = 1)
     public void testExistingInterfaceTest(String packages, String clazzName, @ConvertWith(StringArrayConverter.class) String[] methodNames, @ConvertWith(StringArrayConverter.class) String[] type) throws ClassNotFoundException, NoSuchMethodException, SecurityException
     {
         Class<?> clazz = Class.forName(packages + "." + clazzName);            
@@ -35,7 +37,7 @@ public class AppTest
     }
 
     @ParameterizedTest
-    @CsvFileSource(files = "src/test/resources/test-class.csv", numLinesToSkip = 1)
+    @CsvFileSource(files = "src/test/resources/homework/homework_10/test-class.csv", numLinesToSkip = 1)
     public void testExistingClassTest(String packages, String clazzName, String type) throws ClassNotFoundException
     {
         Class<?> clazz = Class.forName(packages + "." + clazzName);
@@ -44,7 +46,7 @@ public class AppTest
     }
 
    @ParameterizedTest
-   @CsvFileSource(files = "src/test/resources/test-method.csv", numLinesToSkip = 1)
+   @CsvFileSource(files = "src/test/resources/homework/homework_10/test-method.csv", numLinesToSkip = 1)
    public void testExistingMethodInClassTest(String packages, String clazzName, String methodName, String type, String value, @ConvertWith(StringArrayConverter.class) String[] params) throws ClassNotFoundException, NoSuchMethodException, SecurityException
    {
         Class<?> animalClass = Class.forName(packages + "." + clazzName);
@@ -69,7 +71,7 @@ public class AppTest
    }
 
    @ParameterizedTest
-   @CsvFileSource(files = "src/test/resources/test-field.csv", numLinesToSkip = 1)
+   @CsvFileSource(files = "src/test/resources/homework/homework_10/test-field.csv", numLinesToSkip = 1)
     public void testExistingFildInClassTest(String packages, String clazzName, String fieldName, String type, String modificator) throws ClassNotFoundException, NoSuchMethodException, SecurityException, NoSuchFieldException
     {
         Class<?> animalClass = Class.forName(packages + "." + clazzName);
@@ -80,7 +82,7 @@ public class AppTest
     }
 
     @ParameterizedTest
-    @CsvFileSource(files = "src/test/resources/test-extends.csv", numLinesToSkip = 1)
+    @CsvFileSource(files = "src/test/resources/homework/homework_10/test-extends.csv", numLinesToSkip = 1)
     public void testExistingParentClassTest(String packages, String clazzName, String parentName, String modificator) throws ClassNotFoundException, NoSuchMethodException, SecurityException
     {
         Class<?> animalClass = Class.forName(packages + "." + clazzName);

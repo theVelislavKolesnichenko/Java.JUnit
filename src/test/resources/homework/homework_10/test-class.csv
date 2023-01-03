@@ -1,0 +1,12 @@
+Packages, Class, type,
+homework.homework_10.bg.tu_varna.sit.task1, ItemType, public
+homework.homework_10.bg.tu_varna.sit.task1, WaterType, public
+homework.homework_10.bg.tu_varna.sit.task1, Item, public
+homework.homework_10.bg.tu_varna.sit.task1, Biscuits, public
+homework.homework_10.bg.tu_varna.sit.task1, Bread, public
+homework.homework_10.bg.tu_varna.sit.task1, Butter, public
+homework.homework_10.bg.tu_varna.sit.task1, Chocolate, public
+homework.homework_10.bg.tu_varna.sit.task1, Eggs, public
+homework.homework_10.bg.tu_varna.sit.task1, Milk, public
+homework.homework_10.bg.tu_varna.sit.task1, Water, public
+homework.homework_10.bg.tu_varna.sit.task1, Shop, public
