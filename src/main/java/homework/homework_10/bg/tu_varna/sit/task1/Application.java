@@ -1,0 +1,4 @@
+package homework.homework_10.bg.tu_varna.sit.task1;
+
+public class Application {
+}
