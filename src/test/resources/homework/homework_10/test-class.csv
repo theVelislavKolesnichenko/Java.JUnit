@@ -13,3 +13,21 @@ homework.homework_10.bg.tu_varna.sit.task1, Shop, public
 homework.homework_10.bg.tu_varna.sit.task2, Currency, public
 homework.homework_10.bg.tu_varna.sit.task2, AccountType, public
 homework.homework_10.bg.tu_varna.sit.task2, InvalidDataException, public
+homework.homework_10.bg.tu_varna.sit.task2, Account, abstract
+homework.homework_10.bg.tu_varna.sit.task2, DepositAccount, public
+homework.homework_10.bg.tu_varna.sit.task2, SalaryAccount, public
+homework.homework_10.bg.tu_varna.sit.task2, SavingsAccount, public
+homework.homework_10.bg.tu_varna.sit.task2, Bank, public
+homework.homework_10.bg.tu_varna.sit.task3, Person, public
+homework.homework_10.bg.tu_varna.sit.task3, PersonalDataException, public
+homework.homework_10.bg.tu_varna.sit.task3, Owner, public
+homework.homework_10.bg.tu_varna.sit.task3, Car, public
+homework.homework_10.bg.tu_varna.sit.task3, Color, public
+homework.homework_10.bg.tu_varna.sit.task3, Fuel, public
+homework.homework_10.bg.tu_varna.sit.task3, CarDataException, public
+homework.homework_10.bg.tu_varna.sit.task3, Register, public
+homework.homework_10.bg.tu_varna.sit.task4, Person, public
+homework.homework_10.bg.tu_varna.sit.task4, Party, public
+homework.homework_10.bg.tu_varna.sit.task4, Candidacy, public
+homework.homework_10.bg.tu_varna.sit.task4, Election, public
+
