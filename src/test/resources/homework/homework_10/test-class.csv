@@ -10,3 +10,6 @@ homework.homework_10.bg.tu_varna.sit.task1, Eggs, public
 homework.homework_10.bg.tu_varna.sit.task1, Milk, public
 homework.homework_10.bg.tu_varna.sit.task1, Water, public
 homework.homework_10.bg.tu_varna.sit.task1, Shop, public
+homework.homework_10.bg.tu_varna.sit.task2, Currency, public
+homework.homework_10.bg.tu_varna.sit.task2, AccountType, public
+homework.homework_10.bg.tu_varna.sit.task2, InvalidDataException, public
