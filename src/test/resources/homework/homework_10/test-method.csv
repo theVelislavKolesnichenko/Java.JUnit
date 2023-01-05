@@ -1,4 +1,4 @@
-Packages, Class, Method, type, value, params
+Packages, Class, Method, type, value, params,
 homework.homework_10.bg.tu_varna.sit.task1, Item, getItemType, public, homework.homework_10.bg.tu_varna.sit.task1.ItemType,,
 homework.homework_10.bg.tu_varna.sit.task1, Item, getItemPrice, public, double,,
 homework.homework_10.bg.tu_varna.sit.task1, Item, compareTo, public, int, homework.homework_10.bg.tu_varna.sit.task1.Item,
