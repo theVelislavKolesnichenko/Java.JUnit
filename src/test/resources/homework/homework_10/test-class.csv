@@ -30,4 +30,6 @@ homework.homework_10.bg.tu_varna.sit.task4, Person, public
 homework.homework_10.bg.tu_varna.sit.task4, Party, public
 homework.homework_10.bg.tu_varna.sit.task4, Candidacy, public
 homework.homework_10.bg.tu_varna.sit.task4, Election, public
-
+homework.homework_10.bg.tu_varna.sit.task5, Person, public
+homework.homework_10.bg.tu_varna.sit.task5, PersonExeption, public
+homework.homework_10.bg.tu_varna.sit.task5, Teacher, public
