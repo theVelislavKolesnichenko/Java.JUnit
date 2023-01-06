@@ -17,3 +17,5 @@ homework.homework_10.bg.tu_varna.sit.task3, Person, Competency, implements,
 homework.homework_10.bg.tu_varna.sit.task3, PersonalDataException, Exception, extends
 homework.homework_10.bg.tu_varna.sit.task3, Owner, Person, extends
 homework.homework_10.bg.tu_varna.sit.task3, CarDataException, Exception, extends
+homework.homework_10.bg.tu_varna.sit.task5, PersonExeption, Exception, extends
+homework.homework_10.bg.tu_varna.sit.task5, Teacher, Person, extends
