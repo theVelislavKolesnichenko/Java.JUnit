@@ -1,2 +1,6 @@
 Packages, Class, Method, Type
-packages_name, class_name, method_name, method_type
+homework.homework_8.bg.tu_varna.sit.task3, Discount, calculateTotalDiscount, double
+homework.homework_8.bg.tu_varna.sit.task3, Discount, calculateAverageDiscount, double
+homework.homework_8.bg.tu_varna.sit.task4, InterestCalculator, calculateAccountInterest, double
+homework.homework_8.bg.tu_varna.sit.task5, PredictionCalculator, predictWinner, java.lang.String
+homework.homework_8.bg.tu_varna.sit.task5, Results, winProbability, double

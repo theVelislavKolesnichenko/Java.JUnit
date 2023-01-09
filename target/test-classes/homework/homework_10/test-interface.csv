@@ -1,3 +1,4 @@
 Packages, Class, Method, type
 homework.homework_10.bg.tu_varna.sit.task1, Delivery, needsDelivery, boolean
 homework.homework_10.bg.tu_varna.sit.task2, InterestCalculator, calculateInterestValue, double
+homework.homework_10.bg.tu_varna.sit.task3, Competency, hasCompetence, boolean

@@ -1,3 +1,6 @@
 Packages, Class, field, type, modificator
-packages_name, class_name, field_name, field_type, modifier
+homework.homework_2.bg.tu_varna.sit.task1, Item, type, java.lang.String, private
+homework.homework_2.bg.tu_varna.sit.task1, Item, quantity, int, private
+homework.homework_2.bg.tu_varna.sit.task1, Item, unitPrice, double, private
+homework.homework_2.bg.tu_varna.sit.task1, Item, daysToExpire, int, private
 

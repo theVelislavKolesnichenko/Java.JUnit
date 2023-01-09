@@ -12,5 +12,41 @@ homework.homework_10.bg.tu_varna.sit.task1, Eggs, numberInPack, int, private
 homework.homework_10.bg.tu_varna.sit.task1, Milk, name, java.lang.String, private
 homework.homework_10.bg.tu_varna.sit.task1, Milk, daysToExpire, int, private
 homework.homework_10.bg.tu_varna.sit.task1, Water, name, java.lang.String, private
-homework.homework_10.bg.tu_varna.sit.task1, Water, type, homework.homework_10.bg.tu_varna.sit.task1.WaterType, private
+homework.homework_10.bg.tu_varna.sit.task1, Water, waterType, homework.homework_10.bg.tu_varna.sit.task1.WaterType, private
 homework.homework_10.bg.tu_varna.sit.task1, Shop, items, java.util.Set, private
+homework.homework_10.bg.tu_varna.sit.task2, Account, id, int, private
+homework.homework_10.bg.tu_varna.sit.task2, Account, type, homework.homework_10.bg.tu_varna.sit.task2.AccountType, private
+homework.homework_10.bg.tu_varna.sit.task2, Account, currency, homework.homework_10.bg.tu_varna.sit.task2.Currency, private
+homework.homework_10.bg.tu_varna.sit.task2, Account, balance, double, private
+homework.homework_10.bg.tu_varna.sit.task2, Account, bankAccounts, java.util.Map, private
+homework.homework_10.bg.tu_varna.sit.task3, Person, egn, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Person, firstName, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Person, lastName, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Person, age, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Owner, registrationNumber, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Owner, color, homework.homework_10.bg.tu_varna.sit.task3.Color, private
+homework.homework_10.bg.tu_varna.sit.task3, Owner, brand, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Owner, model, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Owner, fuel, homework.homework_10.bg.tu_varna.sit.task3.Fuel, private
+homework.homework_10.bg.tu_varna.sit.task3, Register, unit, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task3, Register, registeredCars, java.util.Map, private
+homework.homework_10.bg.tu_varna.sit.task4, Person, firstName, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task4, Person, lastName, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task4, Candidacy, candidacyId, int, private
+homework.homework_10.bg.tu_varna.sit.task4, Candidacy, candidatePresident, homework.homework_10.bg.tu_varna.sit.task4.Person, private
+homework.homework_10.bg.tu_varna.sit.task4, Candidacy, candidateVicePresident, homework.homework_10.bg.tu_varna.sit.task4.Person, private
+homework.homework_10.bg.tu_varna.sit.task4, Candidacy, party, java.util.Set, private
+homework.homework_10.bg.tu_varna.sit.task4, Election, dateofElection, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task4, Election, results, java.util.Map, private
+homework.homework_10.bg.tu_varna.sit.task5, Person, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task5, Teacher, academicPositions, homework.homework_10.bg.tu_varna.sit.task5.АcademicPositions, private
+homework.homework_10.bg.tu_varna.sit.task5, Student, couse, homework.homework_10.bg.tu_varna.sit.task5.Course, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, name, java.util.Map, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, lector, homework.homework_10.bg.tu_varna.sit.task5.Teacher, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, teachers, java.util.List, private
+homework.homework_10.bg.tu_varna.sit.task5, Exam, discipline, homework.homework_10.bg.tu_varna.sit.task5.Discipline, private
+
+
+
+

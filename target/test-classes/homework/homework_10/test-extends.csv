@@ -8,4 +8,16 @@ homework.homework_10.bg.tu_varna.sit.task1, Chocolate, Item, extends,
 homework.homework_10.bg.tu_varna.sit.task1, Eggs, Item, extends,
 homework.homework_10.bg.tu_varna.sit.task1, Milk, Item, extends,
 homework.homework_10.bg.tu_varna.sit.task1, Water, Item, extends,
-homework.homework_10.bg.tu_varna.sit.task2, InvalidDataException, Exception, extends,
+homework.homework_10.bg.tu_varna.sit.task2, InvalidDataException, java.lang.Exception, extends,
+homework.homework_10.bg.tu_varna.sit.task2, Account, InterestCalculator, implements,
+homework.homework_10.bg.tu_varna.sit.task2, DepositAccount, Account, extends,
+homework.homework_10.bg.tu_varna.sit.task2, SalaryAccount, Account, extends,
+homework.homework_10.bg.tu_varna.sit.task2, SavingsAccount, Account, extends,
+homework.homework_10.bg.tu_varna.sit.task3, Person, Competency, implements,
+homework.homework_10.bg.tu_varna.sit.task3, PersonalDataException, java.lang.Exception, extends
+homework.homework_10.bg.tu_varna.sit.task3, Owner, Person, extends
+homework.homework_10.bg.tu_varna.sit.task3, CarDataException, java.lang.Exception, extends
+homework.homework_10.bg.tu_varna.sit.task5, PersonExeption, java.lang.Exception, extends
+homework.homework_10.bg.tu_varna.sit.task5, Teacher, Person, extends
+homework.homework_10.bg.tu_varna.sit.task5, Student, Person, extends
+homework.homework_10.bg.tu_varna.sit.task5, SemestrialControlExeption, java.lang.Exception, extends

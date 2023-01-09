@@ -1,2 +1,5 @@
 Packages, Class, Method, type, value, params
-bg.tu_varna.sit.task1, Book, get, public, double, bg.tu_varna.sit.task1.Book-int
+homework.homework_2.bg.tu_varna.sit.task1, Item, getType, private, java.lang.String,,
+homework.homework_2.bg.tu_varna.sit.task1, Item, getQuantity, private, int,,
+homework.homework_2.bg.tu_varna.sit.task1, Item, getUnitPrice, private, double,,
+homework.homework_2.bg.tu_varna.sit.task1, Item, getDaysToExpire, private, int,,
