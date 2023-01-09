@@ -38,7 +38,14 @@ homework.homework_10.bg.tu_varna.sit.task4, Candidacy, candidateVicePresident, h
 homework.homework_10.bg.tu_varna.sit.task4, Candidacy, party, java.util.Set, private
 homework.homework_10.bg.tu_varna.sit.task4, Election, dateofElection, java.lang.String, private
 homework.homework_10.bg.tu_varna.sit.task4, Election, results, java.util.Map, private
-homework.homework_10.bg.tu_varna.sit.task4, Person, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task5, Person, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task5, Teacher, academicPositions, homework.homework_10.bg.tu_varna.sit.task5.АcademicPositions, private
+homework.homework_10.bg.tu_varna.sit.task5, Student, couse, homework.homework_10.bg.tu_varna.sit.task5.Course, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, name, java.lang.String, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, name, java.util.Map, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, lector, homework.homework_10.bg.tu_varna.sit.task5.Teacher, private
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, teachers, java.util.List, private
+homework.homework_10.bg.tu_varna.sit.task5, Exam, discipline, homework.homework_10.bg.tu_varna.sit.task5.Discipline, private
 
 
 

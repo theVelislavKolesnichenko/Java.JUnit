@@ -1,3 +1,11 @@
 Packages, Class, type,
-bg.tu_varna.sit.task1, Book, public
-bg.tu_varna.sit.task2, Person, public
+homework.homework_2.bg.tu_varna.sit.task1, Item, public
+homework.homework_2.bg.tu_varna.sit.task2, Apartment, public
+homework.homework_2.bg.tu_varna.sit.task3, Car, public
+homework.homework_2.bg.tu_varna.sit.task4, Student, public
+homework.homework_2.bg.tu_varna.sit.task5, Account, public
+homework.homework_2.bg.tu_varna.sit.task6, Book, public
+homework.homework_2.bg.tu_varna.sit.task7, StudentGroup, public
+homework.homework_2.bg.tu_varna.sit.task8, Notebook, public
+homework.homework_2.bg.tu_varna.sit.task9, SoftDrink, public
+homework.homework_2.bg.tu_varna.sit.task10, MobilePhone, public

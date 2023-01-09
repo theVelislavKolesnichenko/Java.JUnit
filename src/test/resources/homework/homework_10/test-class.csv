@@ -33,3 +33,10 @@ homework.homework_10.bg.tu_varna.sit.task4, Election, public
 homework.homework_10.bg.tu_varna.sit.task5, Person, public
 homework.homework_10.bg.tu_varna.sit.task5, PersonExeption, public
 homework.homework_10.bg.tu_varna.sit.task5, Teacher, public
+homework.homework_10.bg.tu_varna.sit.task5, Student, public
+homework.homework_10.bg.tu_varna.sit.task5, Discipline, public
+homework.homework_10.bg.tu_varna.sit.task5, Exam, public
+homework.homework_10.bg.tu_varna.sit.task5, АcademicPositions, public
+homework.homework_10.bg.tu_varna.sit.task5, Course, public
+homework.homework_10.bg.tu_varna.sit.task5, SemestrialControlExeption, public
+
